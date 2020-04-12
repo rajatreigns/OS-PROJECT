@@ -1,3 +1,7 @@
+THIS CODE IS FOR THE QUEUE SIZE FOR THE GIVEN PROBLEM
+
+
+
 #include <stdio.h>
 #define Queue_Size 50
 typedef struct Pro {
