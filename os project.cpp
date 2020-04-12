@@ -105,7 +105,7 @@ int main()
     int n = sizeof processes / sizeof processes[0]; 
   
     
-    int burst_time[] = {0,5,13,26}; 
+    int burst_time[] = {20,36,19,42}; 
   
     
     int quantum = 2; 
